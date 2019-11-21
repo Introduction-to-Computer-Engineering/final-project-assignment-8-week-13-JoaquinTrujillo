@@ -14,7 +14,7 @@ Here is the video of the PWM change I coded onto the Micro:Bit. *[PWM change](ht
 Here is the Video of the other servo function and what it reads on the Osilloscope. *[Servo Function](https://imgur.com/gallery/zu3HMFu)
 
 --- 
-## **I2C  **
+## I2C
 #### I2C Questions
 1. **what are the disadvantages of the other two serial communication channels, UART and SPI, and how does I2C improve on them?**
 
