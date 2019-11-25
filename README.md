@@ -2,16 +2,16 @@
 ---
 ## **Oscilloscope**
 #### Firing up the Oscilloscope
-Here is the video off me using the Osilloscope for the first time.*[Osilloscope](https://imgur.com/gallery/PyAWu2B)
+Here is the video off me using the Osilloscope for the first time.[Osilloscope](https://imgur.com/gallery/PyAWu2B)
 
 #### Function Generator
-Here is the video of the Oscilloscope connected to a function generator. *[Function Generator](https://imgur.com/gallery/X4sIroo)
+Here is the video of the Oscilloscope connected to a function generator. [Function Generator](https://imgur.com/gallery/X4sIroo)
 
 #### PWM 5% Change
-Here is the video of the PWM change I coded onto the Micro:Bit. *[PWM change](https://imgur.com/gallery/Qfbf1kr)
+Here is the video of the PWM change I coded onto the Micro:Bit. [PWM change](https://imgur.com/gallery/Qfbf1kr)
 
 #### Other Servo Function
-Here is the Video of the other servo function and what it reads on the Osilloscope. *[Servo Function](https://imgur.com/gallery/zu3HMFu)
+Here is the Video of the other servo function and what it reads on the Osilloscope. [Servo Function](https://imgur.com/gallery/zu3HMFu)
 
 --- 
 ## I2C
